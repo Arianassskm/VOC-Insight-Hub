@@ -1,13 +1,13 @@
 {
-  "name": "voc-analysis",
-  "version": "1.0.0",
+  "name": "voc-insight",
+  "version": "1.1.0",
   "description": "Analyze VOC and user feedback data, summarize themes, identify pain points, quantify evidence, and produce action-oriented recommendations.",
   "author": {
     "name": "Arianassskm",
     "url": "https://github.com/Arianassskm"
   },
-  "homepage": "https://github.com/Arianassskm/GETHAOP",
-  "repository": "https://github.com/Arianassskm/GETHAOP",
+  "homepage": "https://github.com/Arianassskm/VOC-Insight-Hub",
+  "repository": "https://github.com/Arianassskm/VOC-Insight-Hub",
   "license": "MIT",
   "keywords": [
     "voc",

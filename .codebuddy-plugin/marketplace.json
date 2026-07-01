@@ -1,23 +1,23 @@
 {
-  "name": "gethaop",
-  "description": "Public WorkBuddy/CodeBuddy marketplace for GETHAOP skills.",
-  "version": "1.0.0",
+  "name": "voc-insight-hub",
+  "description": "Public WorkBuddy/CodeBuddy marketplace for VOC Insight Hub skills.",
+  "version": "1.1.0",
   "owner": {
     "name": "Arianassskm",
     "url": "https://github.com/Arianassskm"
   },
   "plugins": [
     {
-      "name": "voc-analysis",
-      "source": "./plugins/voc-analysis",
-      "description": "VOC analysis skill for turning user feedback, interviews, tickets, reviews, and survey responses into structured insights and action plans.",
-      "version": "1.0.0",
+      "name": "voc-insight",
+      "source": "./plugins/voc-insight",
+      "description": "VOC insight skill for turning user feedback, interviews, tickets, reviews, and survey responses into structured insights and action plans.",
+      "version": "1.1.0",
       "author": {
         "name": "Arianassskm",
         "url": "https://github.com/Arianassskm"
       },
-      "homepage": "https://github.com/Arianassskm/GETHAOP",
-      "repository": "https://github.com/Arianassskm/GETHAOP",
+      "homepage": "https://github.com/Arianassskm/VOC-Insight-Hub",
+      "repository": "https://github.com/Arianassskm/VOC-Insight-Hub",
       "license": "MIT",
       "keywords": [
         "voc",

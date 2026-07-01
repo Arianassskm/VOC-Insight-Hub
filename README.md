@@ -1,12 +1,12 @@
-# GETHAOP WorkBuddy Skills
+# VOC Insight Hub
 
-Public WorkBuddy/CodeBuddy marketplace for the GETHAOP skill collection.
+Public WorkBuddy/CodeBuddy marketplace for VOC analysis and customer insight skills.
 
 ## Included Skills
 
 | Plugin | Skill | What it does |
 | --- | --- | --- |
-| `voc-analysis` | `voc-analysis` | Turns customer feedback, interviews, tickets, reviews, surveys, NPS/CSAT comments, and social comments into structured VOC insights and prioritized recommendations. |
+| `voc-insight` | `voc-insight` | Turns customer feedback, interviews, tickets, reviews, surveys, NPS/CSAT comments, and social comments into structured VOC insights and prioritized recommendations. |
 
 ## Install In WorkBuddy
 
@@ -16,19 +16,19 @@ Public WorkBuddy/CodeBuddy marketplace for the GETHAOP skill collection.
 4. Enter:
 
 ```text
-Arianassskm/GETHAOP
+Arianassskm/VOC-Insight-Hub
 ```
 
 5. Submit and wait for the marketplace to sync.
-6. Install `voc-analysis` from the GETHAOP marketplace.
+6. Install `voc-insight` from the VOC Insight Hub marketplace.
 
 After installation, ask WorkBuddy to analyze VOC/user feedback data, or invoke the skill from the plugin namespace if your WorkBuddy build exposes manual skill invocation.
 
 ## Install In CodeBuddy Code
 
 ```text
-/plugin marketplace add Arianassskm/GETHAOP
-/plugin install voc-analysis@gethaop
+/plugin marketplace add Arianassskm/VOC-Insight-Hub
+/plugin install voc-insight@voc-insight-hub
 /reload-plugins
 ```
 
@@ -39,11 +39,11 @@ After installation, ask WorkBuddy to analyze VOC/user feedback data, or invoke t
 ├── .codebuddy-plugin/
 │   └── marketplace.json
 └── plugins/
-    └── voc-analysis/
+    └── voc-insight/
         ├── .codebuddy-plugin/
         │   └── plugin.json
         └── skills/
-            └── voc-analysis/
+            └── voc-insight/
                 ├── SKILL.md
                 └── references/
                     └── voc-framework.md
@@ -51,7 +51,7 @@ After installation, ask WorkBuddy to analyze VOC/user feedback data, or invoke t
 
 ## Direct Download
 
-You can download the repository as a ZIP from GitHub, or use the packaged release asset named `gethaop-workbuddy-marketplace.zip` when available.
+You can download the repository as a ZIP from GitHub, or use the packaged release asset named `voc-insight-hub-workbuddy-marketplace.zip` when available.
 
 ## Compatibility
 

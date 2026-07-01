@@ -1,5 +1,5 @@
 ---
-name: voc-analysis
+name: voc-insight
 description: Analyze Voice of Customer (VOC), user feedback, interviews, support tickets, app reviews, survey open text, NPS/CSAT comments, social comments, sales notes, or churn reasons. Use this skill when the user asks to classify feedback, extract themes, find pain points, quantify evidence, generate product opportunities, create a VOC report, or turn messy customer text into prioritized recommendations.
 ---
 
