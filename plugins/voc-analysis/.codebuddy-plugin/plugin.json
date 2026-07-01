@@ -1,0 +1,20 @@
+{
+  "name": "voc-analysis",
+  "version": "1.0.0",
+  "description": "Analyze VOC and user feedback data, summarize themes, identify pain points, quantify evidence, and produce action-oriented recommendations.",
+  "author": {
+    "name": "Arianassskm",
+    "url": "https://github.com/Arianassskm"
+  },
+  "homepage": "https://github.com/Arianassskm/GETHAOP",
+  "repository": "https://github.com/Arianassskm/GETHAOP",
+  "license": "MIT",
+  "keywords": [
+    "voc",
+    "customer-feedback",
+    "survey-analysis",
+    "interview-analysis",
+    "nps",
+    "csat"
+  ]
+}

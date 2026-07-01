@@ -1,0 +1,32 @@
+{
+  "name": "gethaop",
+  "description": "Public WorkBuddy/CodeBuddy marketplace for GETHAOP skills.",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Arianassskm",
+    "url": "https://github.com/Arianassskm"
+  },
+  "plugins": [
+    {
+      "name": "voc-analysis",
+      "source": "./plugins/voc-analysis",
+      "description": "VOC analysis skill for turning user feedback, interviews, tickets, reviews, and survey responses into structured insights and action plans.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Arianassskm",
+        "url": "https://github.com/Arianassskm"
+      },
+      "homepage": "https://github.com/Arianassskm/GETHAOP",
+      "repository": "https://github.com/Arianassskm/GETHAOP",
+      "license": "MIT",
+      "keywords": [
+        "voc",
+        "customer-feedback",
+        "user-research",
+        "insights",
+        "workbuddy"
+      ],
+      "category": "productivity"
+    }
+  ]
+}
