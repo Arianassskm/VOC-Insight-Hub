@@ -1,7 +1,7 @@
 {
   "name": "voc-insight-hub",
-  "description": "Public WorkBuddy/CodeBuddy marketplace for VOC Insight Hub skills.",
-  "version": "1.1.0",
+  "description": "VOC Insight Hub bilingual marketplace for WorkBuddy/CodeBuddy. VOC 洞察中枢中英双语技能市场。",
+  "version": "1.2.0",
   "owner": {
     "name": "Arianassskm",
     "url": "https://github.com/Arianassskm"
@@ -10,8 +10,8 @@
     {
       "name": "voc-insight",
       "source": "./plugins/voc-insight",
-      "description": "VOC insight skill for turning user feedback, interviews, tickets, reviews, and survey responses into structured insights and action plans.",
-      "version": "1.1.0",
+      "description": "Bilingual VOC insight skill for customer feedback, interviews, support tickets, reviews, surveys, NPS/CSAT comments, pain-point analysis, opportunity discovery, and action plans. 中英双语客户之声分析技能。",
+      "version": "1.2.0",
       "author": {
         "name": "Arianassskm",
         "url": "https://github.com/Arianassskm"
@@ -22,6 +22,8 @@
       "keywords": [
         "voc",
         "customer-feedback",
+        "客户之声",
+        "用户反馈",
         "user-research",
         "insights",
         "workbuddy"
